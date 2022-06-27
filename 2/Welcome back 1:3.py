@@ -1,0 +1,7 @@
+print('Commitments')
+print('With myself:') 
+print('Be successful in the future')
+print('With the school:')
+print('Get good grades')
+print('With the class:')
+print('Be more respectful to everyone')
